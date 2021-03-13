@@ -4,3 +4,6 @@ python读取文件，写文件的一些操作集合<br>
 python解析json数据，并写进excel表格等<br>
 python重命名文件，python预处理图片等<br>
 python操作word文件等
+
+### pandas思维导图
+[pandas]:(https://www.processon.com/view/604ab42ae401fd596079f941#map)
