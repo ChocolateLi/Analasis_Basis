@@ -6,4 +6,4 @@ python重命名文件，python预处理图片等<br>
 python操作word文件等
 
 ### pandas思维导图
-[pandas]:(https://www.processon.com/view/604ab42ae401fd596079f941#map)
+[pandas思维导图](https://www.processon.com/view/604ab42ae401fd596079f941#map)
